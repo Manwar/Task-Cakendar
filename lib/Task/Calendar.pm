@@ -1,6 +1,6 @@
 package Task::Calendar;
 
-$Task::Calendar::VERSION   = '0.01';
+$Task::Calendar::VERSION   = '0.02';
 $Task::Calendar::AUTHORITY = 'cpan:MANWAR';
 
 use 5.006;
@@ -12,11 +12,11 @@ Task::Calendar - Bundles Calendar::* packages.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 DESCRIPTION
 
-It complements package L<App::Calendr> and installs  all the supported calendars.
+It complements package L<App::calendr> and installs  all the supported calendars.
 
 =head1 SYNOPSIS
 

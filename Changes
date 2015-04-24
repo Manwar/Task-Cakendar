@@ -1,4 +1,8 @@
 Revision history for Task::Calendar
 
+0.02  Fri Apr 24 12:35:00 2015
+      - Fixed the broken link in the pod document.
+      - Upgraded versions of Calendar::* packages.
+
 0.01  Wed Apr 22 12:30:00 2015
       - Module Created.
