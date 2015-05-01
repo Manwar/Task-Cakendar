@@ -22,7 +22,7 @@ WriteMakefile(
     PREREQ_PM => {
         'Calendar::Bahai'   => '0.19',
         'Calendar::Hijri'   => '0.13',
-        'Calendar::Persian' => '0.14',
+        'Calendar::Persian' => '0.15',
         'Calendar::Saka'    => '1.15',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
