@@ -23,7 +23,7 @@ WriteMakefile(
         'Calendar::Bahai'   => '0.19',
         'Calendar::Hijri'   => '0.13',
         'Calendar::Persian' => '0.15',
-        'Calendar::Saka'    => '1.15',
+        'Calendar::Saka'    => '1.16',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Task-Calendar-*' },
