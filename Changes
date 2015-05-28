@@ -1,5 +1,11 @@
 Revision history for Task::Calendar
 
+0.06  Thu May 28 10:20:00 2015
+      - Upgraded Calendar::Bahai v0.22 as pre-requisite in the Makefile.PL script.
+      - Upgraded Calendar::Hijri v0.14 as pre-requisite in the Makefile.PL script.
+      - Upgraded Calendar::Persian v0.16 as pre-requisite in the Makefile.PL script.
+      - Upgraded Calendar::Saka v0.17 as pre-requisite in the Makefile.PL script.
+
 0.05  Thu May 21 10:15:00 2015
       - Upgraded Calendar::Bahai v0.20 as pre-requisite in the Makefile.PL script.
 
