@@ -21,9 +21,9 @@ WriteMakefile(
     },
     PREREQ_PM => {
         'Calendar::Bahai'   => '0.23',
-        'Calendar::Hijri'   => '0.14',
-        'Calendar::Persian' => '0.16',
-        'Calendar::Saka'    => '1.17',
+        'Calendar::Hijri'   => '0.15',
+        'Calendar::Persian' => '0.17',
+        'Calendar::Saka'    => '1.18',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Task-Calendar-*' },
