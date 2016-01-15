@@ -1,5 +1,10 @@
 Revision history for Task::Calendar
 
+0.14  Fri Jan 15 10:40:00 2016
+      - Upgraded to use Calendar::Bahai v0.33.
+      - Upgraded to use Calendar::Saka v1.24.
+      - Updated Copyright year information in the pod.
+
 0.13  Tue Sep 01 09:20:00 2015
       - Upgraded to use Calendar::Bahai v0.28.
       - Upgraded to use Calendar::Hijri v0.21.

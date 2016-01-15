@@ -11,7 +11,6 @@ WriteMakefile(
     VERSION_FROM       => 'lib/Task/Calendar.pm',
     ABSTRACT_FROM      => 'lib/Task/Calendar.pm',
     LICENSE            => 'artistic_2',
-    PL_FILES           => {},
     MIN_PERL_VERSION   => 5.006,
     CONFIGURE_REQUIRES => {
         'ExtUtils::MakeMaker' => 0,
@@ -20,10 +19,10 @@ WriteMakefile(
         'Test::More' => 0,
     },
     PREREQ_PM => {
-        'Calendar::Bahai'   => '0.28',
+        'Calendar::Bahai'   => '0.33',
         'Calendar::Hijri'   => '0.21',
         'Calendar::Persian' => '0.22',
-        'Calendar::Saka'    => '1.23',
+        'Calendar::Saka'    => '1.24',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Task-Calendar-*' },
@@ -32,8 +31,8 @@ WriteMakefile(
         resources => {
             repository => {
                 type => 'git',
-                url  => 'https://github.com/Manwar/Task-Calendar.git',
-                web  => 'https://github.com/Manwar/Task-Calendar',
+                url  => 'https://github.com/manwar/Task-Calendar.git',
+                web  => 'https://github.com/manwar/Task-Calendar',
             },
         }})
      : ()
