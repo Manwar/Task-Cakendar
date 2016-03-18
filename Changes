@@ -1,5 +1,8 @@
 Revision history for Task::Calendar
 
+0.15  Fri Mar 18 10:10:00 2016
+      - Added new calendar to the list i.e. Calendar::Gregorian.
+
 0.14  Fri Jan 15 10:40:00 2016
       - Upgraded to use Calendar::Bahai v0.33.
       - Upgraded to use Calendar::Saka v1.24.
