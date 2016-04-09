@@ -1,5 +1,8 @@
 Revision history for Task::Calendar
 
+0.16  Sat Apr 09 10:50:00 2016
+      - Upgraded to use Calendar::Gregorian v0.02.
+
 0.15  Fri Mar 18 10:10:00 2016
       - Added new calendar to the list i.e. Calendar::Gregorian.
 
