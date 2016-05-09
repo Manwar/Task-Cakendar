@@ -20,9 +20,9 @@ WriteMakefile(
     },
     PREREQ_PM => {
         'Calendar::Bahai'     => '0.33',
-        'Calendar::Gregorian' => '0.02',
-        'Calendar::Hijri'     => '0.21',
-        'Calendar::Persian'   => '0.22',
+        'Calendar::Gregorian' => '0.04',
+        'Calendar::Hijri'     => '0.22',
+        'Calendar::Persian'   => '0.23',
         'Calendar::Saka'      => '1.24',
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
