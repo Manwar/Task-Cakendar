@@ -1,5 +1,11 @@
 Revision history for Task::Calendar
 
+0.27  Sat Dec 24 16:25:00 2016
+      - Upgraded to use Calendar::Bahai v0.43.
+      - Upgraded to use Calendar::Gregorian v0.12.
+      - Upgraded to use Calendar::Hijri v0.30.
+      - Upgraded to use Calendar::Persian v0.32.
+
 0.26  Mon Dec 12 04:25:00 2016
       - Upgraded to use Calendar::Bahai v0.42.
       - Upgraded to use Calendar::Gregorian v0.11.
