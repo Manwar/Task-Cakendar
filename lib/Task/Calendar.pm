@@ -1,6 +1,6 @@
 package Task::Calendar;
 
-$Task::Calendar::VERSION   = '0.27';
+$Task::Calendar::VERSION   = '0.28';
 $Task::Calendar::AUTHORITY = 'cpan:MANWAR';
 
 use 5.006;
@@ -12,7 +12,7 @@ Task::Calendar - Bundles Calendar::* packages.
 
 =head1 VERSION
 
-Version 0.27
+Version 0.28
 
 =head1 DESCRIPTION
 
